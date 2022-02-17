@@ -1,6 +1,6 @@
 <?php
 /*
-* TimeTerra - framework
+* TimeTerra - free PHP/JS framework to construct sites and WEB applications with use MVC pattern of design
 *
 * Copyright (C) 2021-2022 by the Aleksandr Ronzhin
 *
